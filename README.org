@@ -1,0 +1,9 @@
+* cl-difflib
+
+A Common Lisp library for computing differences between sequences based on the Python difflib module.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/wiseman/cl-difflib.git |
+| commit  | 98eb335                                       |
+| systems | cl-difflib                                    |
+|---------+-----------------------------------------------|
